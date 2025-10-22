@@ -18,7 +18,7 @@ Veri seti, Hacettepe Üniversitesi Yabancı Diller Yüksekokulu tarafından düz
 Ek olarak aşağıdaki bilgiler eklenmiştir:
 
 - 📅 **Sınav tarihi ve saati:** 23.10.2025 – 10:00–12:40  
-- 📍 **Sınav yeri:** Hacettepe Üniversitesi Beytepe Kampüsü, YDYO binası  
+- 📍 **Sınav yeri:** Hacettepe Üniversitesi Beytepe Kampüsü YDYO binası 
 - 🧠 **Bölümler:** Writing, Listening, Reading  
 - 📝 **Soru türleri:** Çoktan seçmeli, boşluk doldurma, eşleştirme  
 - 🎯 **Kapsam:** FL3 kurundaki öğrenciler  
