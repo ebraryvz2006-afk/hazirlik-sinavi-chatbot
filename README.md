@@ -90,8 +90,7 @@ Basit, hızlı ve öğretici bir chatbot örneğidir.
 ---
 ## 🌐 Web Arayüzü Linki
 Chatbot’a buradan ulaşabilirsiniz:  
-👉 https://ccd9184a6caf2ed4f2.gradio.live/
-https://92e113b5144de88697.gradio.live
+👉 https://huggingface.co/spaces/ebrar6yvz/chatbot1
 
 
 
